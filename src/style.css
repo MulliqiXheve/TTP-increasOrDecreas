@@ -1,0 +1,29 @@
+.cards{
+    border-style: solid;
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 500px;
+    margin-left: 80px;
+    background-color: lightblue;
+}
+.decrementstyle{
+    text-align: center
+
+
+}
+#allDecroment{
+    
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    
+}
+
+#theNumber{
+    font-size: 70px
+
+}
